@@ -34,8 +34,8 @@
 :root {
   /* URL must be HTTPS and a direct link to the image. You can have a custom background image for the User Popout and the User Modals. */
   --background-image: url(https://leafyluigi.github.io/images/Synthscape%20by%20AxiomDesign.png);
-  --user-modal-image: var(--background-image);
-  --user-popout-image: var(https://github.com/HCeption/discord-themes/assets/93762980/b77336df-5a61-4a54-90ed-6467adea9d85);
+  --user-modal-image: var(https://github.com/HCeption/discord-themes/assets/93762980/b77336df-5a61-4a54-90ed-6467adea9d85);
+  --user-popout-image: var(--background-image);
   /* Home icon is for the little button in the top left. */
   --home-icon: url(https://github.com/HCeption/discord-themes/assets/93762980/0a2b03b8-5bbd-48e1-95e5-6e39663a3d58);
 
