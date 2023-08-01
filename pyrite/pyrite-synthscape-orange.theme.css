@@ -54,9 +54,9 @@
   /* Hover is a secondary accent colour of sorts and is often used when hovering over something. Like Secondary, it should be a shade or two lighter or darker compared to Primary. */
   /* Tooltip is used for tooltips. It can whatever colour you wish. */
   --primary-color: #00D4FF;
-  --secondary-color: #0047E0;
+  --secondary-color: #00F3FF;
   --hover-color: #FF1FF5;
-  --tooltip-color: #FF0000;
+  --tooltip-color: #0000FF;
   /* These colours are used for statues and other coloured things. Ignoring Green they default to Discord's HSL though converted to Hex. */
   /* Green's default here is the old green. The current green is #3ba55d */
   --green-color: #43b581;
